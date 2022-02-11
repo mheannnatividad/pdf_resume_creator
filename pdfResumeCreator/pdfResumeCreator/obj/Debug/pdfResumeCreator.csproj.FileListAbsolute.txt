@@ -1,0 +1,15 @@
+C:\Users\Computer\source\repos\pdfResumeCreator\pdfResumeCreator\bin\Debug\pdfResumeCreator.exe.config
+C:\Users\Computer\source\repos\pdfResumeCreator\pdfResumeCreator\bin\Debug\pdfResumeCreator.exe
+C:\Users\Computer\source\repos\pdfResumeCreator\pdfResumeCreator\bin\Debug\pdfResumeCreator.pdb
+C:\Users\Computer\source\repos\pdfResumeCreator\pdfResumeCreator\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Computer\source\repos\pdfResumeCreator\pdfResumeCreator\bin\Debug\itextsharp.dll
+C:\Users\Computer\source\repos\pdfResumeCreator\pdfResumeCreator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Computer\source\repos\pdfResumeCreator\pdfResumeCreator\bin\Debug\itextsharp.xml
+C:\Users\Computer\source\repos\pdfResumeCreator\pdfResumeCreator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Computer\source\repos\pdfResumeCreator\pdfResumeCreator\obj\Debug\pdfResumeCreator.csproj.AssemblyReference.cache
+C:\Users\Computer\source\repos\pdfResumeCreator\pdfResumeCreator\obj\Debug\pdfResumeCreator.Form1.resources
+C:\Users\Computer\source\repos\pdfResumeCreator\pdfResumeCreator\obj\Debug\pdfResumeCreator.Properties.Resources.resources
+C:\Users\Computer\source\repos\pdfResumeCreator\pdfResumeCreator\obj\Debug\pdfResumeCreator.csproj.GenerateResource.cache
+C:\Users\Computer\source\repos\pdfResumeCreator\pdfResumeCreator\obj\Debug\pdfResumeCreator.csproj.CoreCompileInputs.cache
+C:\Users\Computer\source\repos\pdfResumeCreator\pdfResumeCreator\obj\Debug\pdfResumeCreator.exe
+C:\Users\Computer\source\repos\pdfResumeCreator\pdfResumeCreator\obj\Debug\pdfResumeCreator.pdb
